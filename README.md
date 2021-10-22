@@ -1,4 +1,4 @@
-# Unity-Regret
+# Videogame - Regret
 
 This is a project Based in Unity using C# fully coded by Me (Thomas Ly) with artwork and animations done by Aaron Brown.
 
