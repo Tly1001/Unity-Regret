@@ -1,6 +1,10 @@
 # Videogame - Regret
 
-This is a project Based in Unity using C# fully coded by Me (Thomas Ly) with artwork and animations done by Aaron Brown.
+This project is built with the Unity engine using C# fully coded by Me (Thomas Ly) with artwork and animations done by Aaron Brown.
+
+It has been a passion project and first attemp using all systems involved for both of us. 
+
+This experience alone has made it worth working on.
 
 --- 
 
