@@ -8,7 +8,7 @@ This experience alone has made it worth working on.
 
 --- 
 
-The Game is called Regret, it is a roguelike featuring themes of time travel. 
+Regret is a roguelike featuring themes of time travel, and familial love. 
 
 Each level is based on an era or theme with some warped differences that make sense within the setting of the game.
 
