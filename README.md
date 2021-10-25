@@ -2,7 +2,7 @@
 
 Built with the Unity engine using C# fully coded by Me (Thomas Ly), artwork and animations done by Aaron Brown.
 
-It has been a passion project and first attemp using all systems involved for both of us. 
+It has been a passion project and first attempt using all systems involved for both of us. 
 
 This experience alone has made it worth working on.
 
