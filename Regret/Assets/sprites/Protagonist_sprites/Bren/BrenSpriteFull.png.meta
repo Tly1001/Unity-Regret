@@ -1,0 +1,2700 @@
+fileFormatVersion: 2
+guid: e5fb1c6d3973536448b17d47b7ce6bfa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8176908341140709272
+    second: BrenSpriteFull_0
+  - first:
+      213: 5796910265976356974
+    second: BrenSpriteFull_1
+  - first:
+      213: -3830395478813168287
+    second: BrenSpriteFull_2
+  - first:
+      213: 622927965771286634
+    second: BrenSpriteFull_3
+  - first:
+      213: -2332793785885468798
+    second: BrenSpriteFull_4
+  - first:
+      213: -7749268887198161577
+    second: BrenSpriteFull_5
+  - first:
+      213: -1557201076167923999
+    second: BrenSpriteFull_6
+  - first:
+      213: 3538294967129375405
+    second: BrenSpriteFull_7
+  - first:
+      213: 5332533677240992414
+    second: BrenSpriteFull_8
+  - first:
+      213: -8171788268863360938
+    second: BrenSpriteFull_9
+  - first:
+      213: 6652880377721558901
+    second: BrenSpriteFull_10
+  - first:
+      213: -8343470157046018495
+    second: BrenSpriteFull_11
+  - first:
+      213: -1690680021896392728
+    second: BrenSpriteFull_12
+  - first:
+      213: 3343464612826348208
+    second: BrenSpriteFull_13
+  - first:
+      213: 2076192115317086717
+    second: BrenSpriteFull_14
+  - first:
+      213: -5719042339812236682
+    second: BrenSpriteFull_15
+  - first:
+      213: 3773131825094763641
+    second: BrenSpriteFull_16
+  - first:
+      213: 2624413222116173377
+    second: BrenSpriteFull_17
+  - first:
+      213: 4492422390897180391
+    second: BrenSpriteFull_18
+  - first:
+      213: 8841415012711676601
+    second: BrenSpriteFull_19
+  - first:
+      213: 1887621681690764388
+    second: BrenSpriteFull_20
+  - first:
+      213: -8812427433562265239
+    second: BrenSpriteFull_21
+  - first:
+      213: -4895365111969173712
+    second: BrenSpriteFull_22
+  - first:
+      213: 178253777994049012
+    second: BrenSpriteFull_23
+  - first:
+      213: 8645867218016975942
+    second: BrenSpriteFull_24
+  - first:
+      213: 8421334816136475220
+    second: BrenSpriteFull_25
+  - first:
+      213: 4530500211537757630
+    second: BrenSpriteFull_26
+  - first:
+      213: 63658210736396312
+    second: BrenSpriteFull_27
+  - first:
+      213: -3453550986731969735
+    second: BrenSpriteFull_28
+  - first:
+      213: 2020969971653057451
+    second: BrenSpriteFull_29
+  - first:
+      213: -3556566990775129744
+    second: BrenSpriteFull_30
+  - first:
+      213: -333618047643553232
+    second: BrenSpriteFull_31
+  - first:
+      213: 1684823036255075010
+    second: BrenSpriteFull_32
+  - first:
+      213: 2654391367884846432
+    second: BrenSpriteFull_33
+  - first:
+      213: -4005467877746268878
+    second: BrenSpriteFull_34
+  - first:
+      213: -7780050522983098776
+    second: BrenSpriteFull_35
+  - first:
+      213: -1948725082288940401
+    second: BrenSpriteFull_36
+  - first:
+      213: -8855536092998822516
+    second: BrenSpriteFull_37
+  - first:
+      213: -6880818312155438494
+    second: BrenSpriteFull_38
+  - first:
+      213: 7931198521260515073
+    second: BrenSpriteFull_39
+  - first:
+      213: 7541770172484328726
+    second: BrenSpriteFull_40
+  - first:
+      213: -492917641564818810
+    second: BrenSpriteFull_41
+  - first:
+      213: 882954849184511565
+    second: BrenSpriteFull_42
+  - first:
+      213: 2320226580757267929
+    second: BrenSpriteFull_43
+  - first:
+      213: -5967849097760601470
+    second: BrenSpriteFull_44
+  - first:
+      213: -1764164147817211380
+    second: BrenSpriteFull_45
+  - first:
+      213: -6394983318293096886
+    second: BrenSpriteFull_46
+  - first:
+      213: 2895968978967927304
+    second: BrenSpriteFull_47
+  - first:
+      213: -8184796972441173159
+    second: BrenSpriteFull_48
+  - first:
+      213: 7131370806866909491
+    second: BrenSpriteFull_49
+  - first:
+      213: -5621739179846807086
+    second: BrenSpriteFull_50
+  - first:
+      213: 8296571570861077905
+    second: BrenSpriteFull_51
+  - first:
+      213: -4982363284342172994
+    second: BrenSpriteFull_52
+  - first:
+      213: 1360152028578153101
+    second: BrenSpriteFull_53
+  - first:
+      213: -7690285365832577217
+    second: BrenSpriteFull_54
+  - first:
+      213: -2509214346140958352
+    second: BrenSpriteFull_55
+  - first:
+      213: 8182155790093252618
+    second: BrenSpriteFull_56
+  - first:
+      213: -7921718597615546175
+    second: BrenSpriteFull_57
+  - first:
+      213: -7126265535131902045
+    second: BrenSpriteFull_58
+  - first:
+      213: -6789555801836841688
+    second: BrenSpriteFull_59
+  - first:
+      213: 3293763123507766460
+    second: BrenSpriteFull_60
+  - first:
+      213: -7467393731993427813
+    second: BrenSpriteFull_61
+  - first:
+      213: 4797072022709111193
+    second: BrenSpriteFull_62
+  - first:
+      213: 4583880594752310645
+    second: BrenSpriteFull_63
+  - first:
+      213: 2494054621234485781
+    second: BrenSpriteFull_64
+  - first:
+      213: 2960337236262825228
+    second: BrenSpriteFull_65
+  - first:
+      213: -2101483687710942105
+    second: BrenSpriteFull_66
+  - first:
+      213: -2926953631294372643
+    second: BrenSpriteFull_67
+  - first:
+      213: -954292175196540162
+    second: BrenSpriteFull_68
+  - first:
+      213: -4318539846125886525
+    second: BrenSpriteFull_69
+  - first:
+      213: -6133037356352822838
+    second: BrenSpriteFull_70
+  - first:
+      213: 9137500478289040756
+    second: BrenSpriteFull_71
+  - first:
+      213: -6088132102509601550
+    second: BrenSpriteFull_72
+  - first:
+      213: -4953055822267807701
+    second: BrenSpriteFull_73
+  - first:
+      213: -3457671111356540679
+    second: BrenSpriteFull_74
+  - first:
+      213: 3388084390684335108
+    second: BrenSpriteFull_75
+  - first:
+      213: -7200741365430566830
+    second: BrenSpriteFull_76
+  - first:
+      213: 6086216130951600412
+    second: BrenSpriteFull_77
+  - first:
+      213: 2936806816243409805
+    second: BrenSpriteFull_78
+  - first:
+      213: -8441721190539167554
+    second: BrenSpriteFull_79
+  - first:
+      213: 8337796485647381835
+    second: BrenSpriteFull_80
+  - first:
+      213: 8075631227801519438
+    second: BrenSpriteFull_81
+  - first:
+      213: -4797791067929316454
+    second: BrenSpriteFull_82
+  - first:
+      213: -2533087591423578417
+    second: BrenSpriteFull_83
+  - first:
+      213: 1410230545133298038
+    second: BrenSpriteFull_84
+  - first:
+      213: 1185494863099676566
+    second: BrenSpriteFull_85
+  - first:
+      213: 7483617231934429446
+    second: BrenSpriteFull_86
+  - first:
+      213: 1371107299809621889
+    second: BrenSpriteFull_87
+  - first:
+      213: -6113290313870772365
+    second: BrenSpriteFull_88
+  - first:
+      213: -8183055246819682081
+    second: BrenSpriteFull_89
+  - first:
+      213: 7736811150195636661
+    second: BrenSpriteFull_90
+  - first:
+      213: -5032590070175713373
+    second: BrenSpriteFull_91
+  - first:
+      213: -7522757662211539554
+    second: BrenSpriteFull_92
+  - first:
+      213: -1192279147057667351
+    second: BrenSpriteFull_93
+  - first:
+      213: -6990475296134848815
+    second: BrenSpriteFull_94
+  - first:
+      213: -9019379026875363188
+    second: BrenSpriteFull_95
+  - first:
+      213: 5310150885530559630
+    second: BrenSpriteFull_96
+  - first:
+      213: 3958939341021824831
+    second: BrenSpriteFull_97
+  - first:
+      213: 2609364511875624027
+    second: BrenSpriteFull_100
+  - first:
+      213: 5647438279461403937
+    second: BrenSpriteFull_102
+  - first:
+      213: -6596082419651371934
+    second: BrenSpriteFull_103
+  - first:
+      213: 6076748729198864018
+    second: BrenSpriteFull_104
+  - first:
+      213: -1468972600362667921
+    second: BrenSpriteFull_111
+  - first:
+      213: -2455116380851130502
+    second: BrenSpriteFull_114
+  - first:
+      213: 7789665362526236261
+    second: BrenSpriteFull_116
+  - first:
+      213: -5343417204200113492
+    second: BrenSpriteFull_117
+  - first:
+      213: 5414658831360532463
+    second: BrenSpriteFull_118
+  - first:
+      213: 2218129893716090227
+    second: BrenSpriteFull_119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BrenSpriteFull_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5268
+        width: 219
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8602165df29c58e80800000000000000
+      internalID: -8176908341140709272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 5268
+        width: 268
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60065e6c23c27050800000000000000
+      internalID: 5796910265976356974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_2
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 5271
+        width: 218
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d24183b93b7dac0800000000000000
+      internalID: -3830395478813168287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_3
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 5271
+        width: 241
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6844783fa515a800800000000000000
+      internalID: 622927965771286634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 5276
+        width: 234
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287de02596040afd0800000000000000
+      internalID: -2332793785885468798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_5
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 5260
+        width: 229
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75521952101157490800000000000000
+      internalID: -7749268887198161577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4909
+        width: 219
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6a7232fd5b36ae0800000000000000
+      internalID: -1557201076167923999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_7
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 4921
+        width: 219
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da28c42a68c8a1130800000000000000
+      internalID: 3538294967129375405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_8
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 4918
+        width: 219
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92c1c06027f00a40800000000000000
+      internalID: 5332533677240992414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_9
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 4910
+        width: 240
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650f1be8dd9f79e80800000000000000
+      internalID: -8171788268863360938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_10
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 4920
+        width: 232
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577924f7477c35c50800000000000000
+      internalID: 6652880377721558901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_11
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 4912
+        width: 221
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e0337091a063c80800000000000000
+      internalID: -8343470157046018495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4546
+        width: 217
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef040a4a7f7988e0800000000000000
+      internalID: -1690680021896392728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 4540
+        width: 243
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba7a96d95f566e20800000000000000
+      internalID: 3343464612826348208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_14
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 4540
+        width: 279
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df911fe8abd10dc10800000000000000
+      internalID: 2076192115317086717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_15
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 4543
+        width: 317
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672a210fa41e1a0b0800000000000000
+      internalID: -5719042339812236682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_16
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 4543
+        width: 284
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974ae7d676bdc5430800000000000000
+      internalID: 3773131825094763641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_17
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 4535
+        width: 232
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146a218bbe9cb6420800000000000000
+      internalID: 2624413222116173377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_18
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 4546
+        width: 319
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eeff66dc5a485e30800000000000000
+      internalID: 4492422390897180391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_19
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 4537
+        width: 250
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba3c783c1403ba70800000000000000
+      internalID: 8841415012711676601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4141
+        width: 213
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464e08f1bed223a10800000000000000
+      internalID: 1887621681690764388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_21
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 4141
+        width: 218
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9692d9d70f7f3b580800000000000000
+      internalID: -8812427433562265239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_22
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 4219
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fac3f0e5b201cb0800000000000000
+      internalID: -4895365111969173712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_23
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 4144
+        width: 219
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5e43dddd8497200800000000000000
+      internalID: 178253777994049012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_24
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 4135
+        width: 221
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cb8115d6a4cf770800000000000000
+      internalID: 8645867218016975942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_25
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 4135
+        width: 224
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452b17aa5679ed470800000000000000
+      internalID: 8421334816136475220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_26
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 4135
+        width: 224
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb54a8350f19fde30800000000000000
+      internalID: 4530500211537757630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_27
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 4143
+        width: 225
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818dafd2ec822e000800000000000000
+      internalID: 63658210736396312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_28
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 4141
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933242edca58210d0800000000000000
+      internalID: -3453550986731969735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3780
+        width: 213
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab9c1e4b7deb0c10800000000000000
+      internalID: 2020969971653057451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_30
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 3799
+        width: 216
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079e7f65a2984aec0800000000000000
+      internalID: -3556566990775129744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_31
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 3874
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032fb8b3720ce5bf0800000000000000
+      internalID: -333618047643553232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_32
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 3798
+        width: 219
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caf069ff91b16710800000000000000
+      internalID: 1684823036255075010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_33
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 3791
+        width: 221
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065b3a1b2ea46d420800000000000000
+      internalID: 2654391367884846432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_34
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 3785
+        width: 225
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23522b3ef28b968c0800000000000000
+      internalID: -4005467877746268878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_35
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 3785
+        width: 224
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86610031545b70490800000000000000
+      internalID: -7780050522983098776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_36
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 3785
+        width: 224
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a1649ccdcb4f4e0800000000000000
+      internalID: -1948725082288940401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3435
+        width: 267
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85972197d0da1580800000000000000
+      internalID: -8855536092998822516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_38
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 3442
+        width: 225
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262e8f3833c6280a0800000000000000
+      internalID: -6880818312155438494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_39
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 3438
+        width: 234
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f16d6a807411e60800000000000000
+      internalID: 7931198521260515073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_40
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 3438
+        width: 267
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d909c8300c9a860800000000000000
+      internalID: 7541770172484328726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_41
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 3435
+        width: 331
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682710f340ec829f0800000000000000
+      internalID: -492917641564818810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_42
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 3429
+        width: 360
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46f95ad1c2e04c00800000000000000
+      internalID: 882954849184511565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_43
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 3429
+        width: 262
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5c47838c9133020800000000000000
+      internalID: 2320226580757267929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_44
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 3424
+        width: 220
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a08d65dd0fd2da0800000000000000
+      internalID: -5967849097760601470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_45
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 3022
+        width: 224
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a10e3fd0e6487e0800000000000000
+      internalID: -1764164147817211380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_46
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 3022
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a465798dd847047a0800000000000000
+      internalID: -6394983318293096886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_47
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 3024
+        width: 235
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a1fef517c803820800000000000000
+      internalID: 2895968978967927304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_48
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 3038
+        width: 216
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95383fab482c96e80800000000000000
+      internalID: -8184796972441173159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_49
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 3014
+        width: 204
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33994e817f7b7f260800000000000000
+      internalID: 7131370806866909491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_50
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 3011
+        width: 205
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1d55d40029bf1b0800000000000000
+      internalID: -5621739179846807086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_51
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 3046
+        width: 216
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19577c6f2e7532370800000000000000
+      internalID: 8296571570861077905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_52
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2636
+        width: 265
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb216d69df61bdab0800000000000000
+      internalID: -4982363284342172994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_53
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2639
+        width: 266
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d828de7401b30e210800000000000000
+      internalID: 1360152028578153101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_54
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 2636
+        width: 262
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f0a24643e964590800000000000000
+      internalID: -7690285365832577217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_55
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 2652
+        width: 262
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07144f8b8da7d2dd0800000000000000
+      internalID: -2509214346140958352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_56
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 2658
+        width: 257
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08f965175bdc8170800000000000000
+      internalID: 8182155790093252618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_57
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 2674
+        width: 260
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0158218e6601290800000000000000
+      internalID: -7921718597615546175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_58
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 2664
+        width: 265
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af9a5b904b6a1d90800000000000000
+      internalID: -7126265535131902045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_59
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2280
+        width: 216
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82592d888f6a6c1a0800000000000000
+      internalID: -6789555801836841688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_60
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2267
+        width: 232
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb426f61c1cc5bd20800000000000000
+      internalID: 3293763123507766460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_61
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 2264
+        width: 303
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90ad86f6fc7e5890800000000000000
+      internalID: -7467393731993427813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_62
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 2264
+        width: 336
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9998a83b69f929240800000000000000
+      internalID: 4797072022709111193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_63
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 2264
+        width: 333
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d840f4d173d9f30800000000000000
+      internalID: 4583880594752310645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_64
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 2275
+        width: 271
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a5a15c679ac9220800000000000000
+      internalID: 2494054621234485781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_65
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 2275
+        width: 270
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0daec6280b351920800000000000000
+      internalID: 2960337236262825228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_66
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 2278
+        width: 221
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c16bc58b706d2e0800000000000000
+      internalID: -2101483687710942105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_67
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1906
+        width: 227
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4c8a41e2f5167d0800000000000000
+      internalID: -2926953631294372643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_68
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1900
+        width: 225
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2b97d925ca1c2f0800000000000000
+      internalID: -954292175196540162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_69
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1908
+        width: 225
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3eb4bf3e67114c0800000000000000
+      internalID: -4318539846125886525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_70
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1900
+        width: 232
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1a364c40313eaa0800000000000000
+      internalID: -6133037356352822838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_71
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1900
+        width: 227
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475516fb54ceece70800000000000000
+      internalID: 9137500478289040756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_72
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1900
+        width: 227
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc534ceb1c928ba0800000000000000
+      internalID: -6088132102509601550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_73
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1900
+        width: 227
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b280c09d8f5334bb0800000000000000
+      internalID: -4953055822267807701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_74
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1580
+        width: 227
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f896799172e300d0800000000000000
+      internalID: -3457671111356540679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_75
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1574
+        width: 224
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c19cf6dc4e40f20800000000000000
+      internalID: 3388084390684335108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_76
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1580
+        width: 225
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250cc0a11e3d11c90800000000000000
+      internalID: -7200741365430566830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_77
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1574
+        width: 224
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c195f9f2355967450800000000000000
+      internalID: 6086216130951600412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_78
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1572
+        width: 224
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8362205d32a1c820800000000000000
+      internalID: 2936806816243409805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_79
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 1569
+        width: 226
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb87609ad4bf8da80800000000000000
+      internalID: -8441721190539167554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_80
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 1569
+        width: 227
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4533886abdc5b370800000000000000
+      internalID: 8337796485647381835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_81
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1246
+        width: 230
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45492ea0d7621070800000000000000
+      internalID: 8075631227801519438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_82
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1235
+        width: 252
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93f7898172da6db0800000000000000
+      internalID: -4797791067929316454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_83
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1230
+        width: 229
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce6f38a14aa8dcd0800000000000000
+      internalID: -2533087591423578417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_84
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1230
+        width: 210
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67163168535229310800000000000000
+      internalID: 1410230545133298038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_85
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1233
+        width: 216
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6974b160c49b37010800000000000000
+      internalID: 1185494863099676566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_86
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 1235
+        width: 235
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6099178f8362bd760800000000000000
+      internalID: 7483617231934429446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_87
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 1229
+        width: 224
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187f81223d6270310800000000000000
+      internalID: 1371107299809621889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_88
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1230
+        width: 224
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37775e069da392ba0800000000000000
+      internalID: -6113290313870772365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_89
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 765
+        width: 233
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd89ae3db92ff6e80800000000000000
+      internalID: -8183055246819682081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_90
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 765
+        width: 254
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b931bdefbcae5b60800000000000000
+      internalID: 7736811150195636661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_91
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 765
+        width: 246
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7b407bef5a82ab0800000000000000
+      internalID: -5032590070175713373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_92
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 765
+        width: 232
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d788473cbc99790800000000000000
+      internalID: -7522757662211539554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_95
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 765
+        width: 374
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c805c70df8ab4d280800000000000000
+      internalID: -9019379026875363188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_97
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 366
+        width: 383
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37cce4fa5af0f630800000000000000
+      internalID: 3958939341021824831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_111
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 400
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60f992f3392d9be0800000000000000
+      internalID: -1468972600362667921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_114
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 395
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f202dc8acadedd0800000000000000
+      internalID: -2455116380851130502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_93
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 765
+        width: 238
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2a586ce6c247fe0800000000000000
+      internalID: -1192279147057667351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_94
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 767
+        width: 260
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de1dba51c7dcfe90800000000000000
+      internalID: -6990475296134848815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_96
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 787
+        width: 285
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8466c3981271b940800000000000000
+      internalID: 5310150885530559630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_100
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 370
+        width: 421
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c6bd3d233563420800000000000000
+      internalID: 2609364511875624027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_102
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 364
+        width: 385
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d7d3a913bbf5e40800000000000000
+      internalID: 5647438279461403937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_103
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 340
+        width: 394
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c1b73acf10674a0800000000000000
+      internalID: -6596082419651371934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_104
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 330
+        width: 408
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2966431f5c2f45450800000000000000
+      internalID: 6076748729198864018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_116
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 0
+        width: 278
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e6a8430637a1c60800000000000000
+      internalID: 7789665362526236261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_117
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 0
+        width: 273
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caaf0f80d5e58d5b0800000000000000
+      internalID: -5343417204200113492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_118
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 0
+        width: 284
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef1d2fd48bb42b40800000000000000
+      internalID: 5414658831360532463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BrenSpriteFull_119
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 34
+        width: 234
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d5f9cd26168ce10800000000000000
+      internalID: 2218129893716090227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
