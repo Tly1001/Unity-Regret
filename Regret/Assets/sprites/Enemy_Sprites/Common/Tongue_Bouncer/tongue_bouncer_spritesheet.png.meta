@@ -1,0 +1,600 @@
+fileFormatVersion: 2
+guid: de66ea8c1167ec84ab43e1b16f1e0092
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6672827047907386446
+    second: tongue_bouncer_spritesheet_0
+  - first:
+      213: 4293499798498060946
+    second: tongue_bouncer_spritesheet_1
+  - first:
+      213: -1149183044493609484
+    second: tongue_bouncer_spritesheet_2
+  - first:
+      213: 6576647874015533760
+    second: tongue_bouncer_spritesheet_3
+  - first:
+      213: -2170266704152976488
+    second: tongue_bouncer_spritesheet_4
+  - first:
+      213: 8220844916547046476
+    second: tongue_bouncer_spritesheet_5
+  - first:
+      213: 5759808450854445777
+    second: tongue_bouncer_spritesheet_6
+  - first:
+      213: 5386305849678872868
+    second: tongue_bouncer_spritesheet_7
+  - first:
+      213: 2865846433666163470
+    second: tongue_bouncer_spritesheet_8
+  - first:
+      213: 6667604117419710055
+    second: tongue_bouncer_spritesheet_9
+  - first:
+      213: -9055225002872102505
+    second: tongue_bouncer_spritesheet_10
+  - first:
+      213: -3001403696461836012
+    second: tongue_bouncer_spritesheet_11
+  - first:
+      213: 5606738485476327578
+    second: tongue_bouncer_spritesheet_12
+  - first:
+      213: 8498355065341601709
+    second: tongue_bouncer_spritesheet_13
+  - first:
+      213: -3907089069405588686
+    second: tongue_bouncer_spritesheet_14
+  - first:
+      213: 1313286904567402813
+    second: tongue_bouncer_spritesheet_15
+  - first:
+      213: 5273490340935567164
+    second: tongue_bouncer_spritesheet_16
+  - first:
+      213: -3030593136560647587
+    second: tongue_bouncer_spritesheet_17
+  - first:
+      213: 8572183682812721826
+    second: tongue_bouncer_spritesheet_18
+  - first:
+      213: 6434907042971630175
+    second: tongue_bouncer_spritesheet_19
+  - first:
+      213: -2942867033536525503
+    second: tongue_bouncer_spritesheet_20
+  - first:
+      213: 3031115129968491118
+    second: tongue_bouncer_spritesheet_21
+  - first:
+      213: -2000543246530853408
+    second: tongue_bouncer_spritesheet_22
+  - first:
+      213: -777530906415211478
+    second: tongue_bouncer_spritesheet_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tongue_bouncer_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 433
+        width: 281
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44632e88d4aa9c50800000000000000
+      internalID: 6672827047907386446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tongue_bouncer_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 433
+        width: 286
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a20bc9153959b30800000000000000
+      internalID: 4293499798498060946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tongue_bouncer_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 435
+        width: 275
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f57e031c184d00f0800000000000000
+      internalID: -1149183044493609484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tongue_bouncer_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 591
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca16879562f44b50800000000000000
+      internalID: 6576647874015533760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tongue_bouncer_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 435
+        width: 306
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893aa1f5ee9a1e1e0800000000000000
+      internalID: -2170266704152976488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tongue_bouncer_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 435
+        width: 290
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ccc5c45ee461270800000000000000
+      internalID: 8220844916547046476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tongue_bouncer_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 435
+        width: 284
+        height: 380
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2e87fe443feef40800000000000000
+      internalID: 5759808450854445777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tongue_bouncer_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1978
+        y: 430
+        width: 284
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421c7b5e1a000ca40800000000000000
+      internalID: 5386305849678872868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tongue_bouncer_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 316
+        width: 273
+        height: 511
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e03ed73c52885c720800000000000000
+      internalID: 2865846433666163470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tongue_bouncer_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 311
+        width: 275
+        height: 578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766dbb94e96188c50800000000000000
+      internalID: 6667604117419710055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tongue_bouncer_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 14
+        width: 277
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791a29626d0655280800000000000000
+      internalID: -9055225002872102505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tongue_bouncer_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 13
+        width: 263
+        height: 391
+      alignment: 9
+      pivot: {x: 0.4731761, y: 0.5090212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41119dc7d3fd856d0800000000000000
+      internalID: -3001403696461836012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tongue_bouncer_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 12
+        width: 262
+        height: 395
+      alignment: 9
+      pivot: {x: 0.5201947, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90045f52f22fcd40800000000000000
+      internalID: 5606738485476327578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tongue_bouncer_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 14
+        width: 255
+        height: 390
+      alignment: 9
+      pivot: {x: 0.6172928, y: 0.5023993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7e3dcd7e830f570800000000000000
+      internalID: 8498355065341601709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tongue_bouncer_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 14
+        width: 261
+        height: 390
+      alignment: 9
+      pivot: {x: 0.53378683, y: 0.4999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233b448213b37c9c0800000000000000
+      internalID: -3907089069405588686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tongue_bouncer_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 14
+        width: 281
+        height: 392
+      alignment: 9
+      pivot: {x: 0.5251061, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3199ea4b7bb93210800000000000000
+      internalID: 1313286904567402813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tongue_bouncer_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 14
+        width: 280
+        height: 389
+      alignment: 9
+      pivot: {x: 0.51889646, y: 0.49999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c370be166833f2940800000000000000
+      internalID: 5273490340935567164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tongue_bouncer_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 191
+        width: 109
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52d09c599b21f5d0800000000000000
+      internalID: -3030593136560647587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tongue_bouncer_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 2485
+        y: 205
+        width: 101
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aab37364a386f670800000000000000
+      internalID: 8572183682812721826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tongue_bouncer_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 199
+        width: 102
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5abbfaacd16d4950800000000000000
+      internalID: 6434907042971630175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
