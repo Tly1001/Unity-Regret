@@ -1,0 +1,1872 @@
+fileFormatVersion: 2
+guid: 2a0eb1ba75d115f488c488a0da63b014
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MartySpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2827
+        width: 244
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d4e807d36724f10800000000000000
+      internalID: 2252492769892126071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2809
+        width: 219
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe600c2566c016220800000000000000
+      internalID: 2477274903644997359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 2811
+        width: 203
+        height: 355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7ce472ea8c11fa0800000000000000
+      internalID: -5831659392158742557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 2809
+        width: 208
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1891602443af810800000000000000
+      internalID: 1799808459262755293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 3163
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85b48b806148f490800000000000000
+      internalID: -7712342478958578290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 2810
+        width: 190
+        height: 361
+      alignment: 9
+      pivot: {x: 0.58947754, y: 0.5108673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b84ead2dfddcd750800000000000000
+      internalID: 6331179255638935734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 2803
+        width: 204
+        height: 365
+      alignment: 9
+      pivot: {x: 0.576927, y: 0.5286628}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac750673c11d198d0800000000000000
+      internalID: -2841259970775722038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 2797
+        width: 227
+        height: 371
+      alignment: 9
+      pivot: {x: 0.43662778, y: 0.5211494}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34473c2714f3b9420800000000000000
+      internalID: 2637771557086393411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 2799
+        width: 228
+        height: 370
+      alignment: 9
+      pivot: {x: 0.5401504, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde173016fac1b090800000000000000
+      internalID: -8020406303187329316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 2827
+        width: 227
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4496a0cb9e20438e0800000000000000
+      internalID: -1714742355215881916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1272
+        y: 2801
+        width: 201
+        height: 361
+      alignment: 9
+      pivot: {x: 0.5780746, y: 0.5434712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe8e88704b624830800000000000000
+      internalID: 4053920539231555263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 3073
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e67bf209f63d600800000000000000
+      internalID: 491859449380040302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 2992
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb90e01f2a24a67b0800000000000000
+      internalID: -5230294749641045572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 2958
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94a9e04486915270800000000000000
+      internalID: 8237530688206251165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2438
+        width: 235
+        height: 362
+      alignment: 9
+      pivot: {x: 0.5275963, y: 0.3413275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c99d663e2bbdcd0800000000000000
+      internalID: -2532233675712914340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 2439
+        width: 236
+        height: 363
+      alignment: 9
+      pivot: {x: 0.5039256, y: 0.34431696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d50c85a6a22d4d0800000000000000
+      internalID: -3111377756315689631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 2438
+        width: 279
+        height: 363
+      alignment: 9
+      pivot: {x: 0.50996184, y: 0.3417646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec921b9668db2630800000000000000
+      internalID: 3903451437246618848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 2437
+        width: 271
+        height: 359
+      alignment: 9
+      pivot: {x: 0.482907, y: 0.35548508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedf6007e82cbf870800000000000000
+      internalID: 8717775420726377967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 2435
+        width: 266
+        height: 361
+      alignment: 9
+      pivot: {x: 0.5174143, y: 0.35885224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff0d5cd8ffc2eb70800000000000000
+      internalID: 8926926079157669876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 2442
+        width: 271
+        height: 359
+      alignment: 9
+      pivot: {x: 0.5564541, y: 0.34374115}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76b2cd736e63ddc0800000000000000
+      internalID: -3615424702257645957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 2440
+        width: 245
+        height: 355
+      alignment: 9
+      pivot: {x: 0.5381607, y: 0.35874024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44103c5b6af6ba60800000000000000
+      internalID: 7689608752796800079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 2440
+        width: 259
+        height: 353
+      alignment: 9
+      pivot: {x: 0.5196896, y: 0.34830913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673f44c8454b73e70800000000000000
+      internalID: 9094936247721587574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 2241
+        y: 2438
+        width: 239
+        height: 364
+      alignment: 9
+      pivot: {x: 0.51422554, y: 0.34121805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25657185560b7f2e0800000000000000
+      internalID: -2092009552574196142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 2438
+        width: 236
+        height: 355
+      alignment: 9
+      pivot: {x: 0.52160853, y: 0.34916374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f567634649ed5b0800000000000000
+      internalID: -5341668949883461821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2085
+        width: 202
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c91a48f8a909f6c0800000000000000
+      internalID: -4109242563674105407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2083
+        width: 154
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5077749dea1ed900800000000000000
+      internalID: 711035398871543899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 2083
+        width: 206
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690056dcd3501cfa0800000000000000
+      internalID: -5782334683569913706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 2083
+        width: 240
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc3c8cd7c4a147a0800000000000000
+      internalID: -6394648817583768390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 2082
+        width: 263
+        height: 329
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da68d80047e7ee990800000000000000
+      internalID: -7354802104758860115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 2077
+        width: 185
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75304fa911b8890b0800000000000000
+      internalID: -5721670418843827369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 2075
+        width: 194
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd872ec7c35aaef70800000000000000
+      internalID: 9217361266578979037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 2072
+        width: 121
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061def3aeee2da420800000000000000
+      internalID: 2642820158824829280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 2080
+        width: 285
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081f72ce5da918ec0800000000000000
+      internalID: -3566399186319969920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 2079
+        width: 221
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f9a52541528fce0800000000000000
+      internalID: -1371305317323071648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1695
+        width: 142
+        height: 352
+      alignment: 9
+      pivot: {x: 0.46878117, y: 0.4937023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42203bdbb96fa0e90800000000000000
+      internalID: -7058558317186842076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1693
+        width: 133
+        height: 357
+      alignment: 9
+      pivot: {x: 0.56666255, y: 0.49068606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cece1e519a4cee30800000000000000
+      internalID: 4534080913065037513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1697
+        width: 147
+        height: 350
+      alignment: 9
+      pivot: {x: 0.59047073, y: 0.4904998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fd31e3ad4082a60800000000000000
+      internalID: 7649369302479658816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1697
+        width: 142
+        height: 352
+      alignment: 9
+      pivot: {x: 0.570242, y: 0.48110858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1dea1de50d2eb480800000000000000
+      internalID: -8881611911651988193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1695
+        width: 154
+        height: 353
+      alignment: 9
+      pivot: {x: 0.6079474, y: 0.4843017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796201ea943211720800000000000000
+      internalID: 2815070041443149463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1695
+        width: 154
+        height: 352
+      alignment: 9
+      pivot: {x: 0.579161, y: 0.47796008}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de96cecf24622f6d0800000000000000
+      internalID: -2958259936075945491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1694
+        width: 154
+        height: 351
+      alignment: 9
+      pivot: {x: 0.615144, y: 0.48421225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86464bf2fce5133c0800000000000000
+      internalID: -4381616718503189400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1695
+        width: 148
+        height: 350
+      alignment: 9
+      pivot: {x: 0.6347887, y: 0.4936663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c9393b3a7696070800000000000000
+      internalID: 8100119357592673290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1693
+        width: 132
+        height: 357
+      alignment: 9
+      pivot: {x: 0.59235454, y: 0.47826874}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fe1e27a10b8e400800000000000000
+      internalID: 353726198391631616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1695
+        width: 144
+        height: 350
+      alignment: 9
+      pivot: {x: 0.49230278, y: 0.4904998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803d2ba7758c40210800000000000000
+      internalID: 1298382870635795208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1296
+        width: 259
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33a84ba8b6232ee0800000000000000
+      internalID: -1287142493908327621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1298
+        width: 254
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64783e9cfbd0eca30800000000000000
+      internalID: 4237339416779261766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1306
+        width: 222
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438730787103f0f60800000000000000
+      internalID: 8002667940468193332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1306
+        width: 217
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ecaf55fb2843f50800000000000000
+      internalID: 6860251890684972592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 1307
+        width: 211
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bddc787ab7d56cb0800000000000000
+      internalID: -4871250226045985351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1298
+        width: 203
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a22834da561ee90800000000000000
+      internalID: -6998200551120688631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 1298
+        width: 208
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4a9e82c86562a70800000000000000
+      internalID: 8801817681724023997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1306
+        width: 240
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8f7fdc20374f540800000000000000
+      internalID: 5040780338817136895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 2136
+        y: 1291
+        width: 240
+        height: 379
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d940499e319c2b760800000000000000
+      internalID: 7472255819121427613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1293
+        width: 269
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a90789087e2f9a0800000000000000
+      internalID: -6200639197436405091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 880
+        width: 269
+        height: 362
+      alignment: 9
+      pivot: {x: 0.49027693, y: 0.49638745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36721098870dc830800000000000000
+      internalID: 4092935919463724606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 880
+        width: 302
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4454a40e7ea23b90800000000000000
+      internalID: -7263551392728198066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 880
+        width: 282
+        height: 369
+      alignment: 9
+      pivot: {x: 0.54637396, y: 0.47519195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1483791fe027968b0800000000000000
+      internalID: -5158466489667864511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 880
+        width: 302
+        height: 369
+      alignment: 9
+      pivot: {x: 0.5476333, y: 0.4751916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cb1c0d75c50c570800000000000000
+      internalID: 8484883230200282121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 878
+        width: 285
+        height: 374
+      alignment: 9
+      pivot: {x: 0.5091771, y: 0.47202665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d5e020f0cfbee30800000000000000
+      internalID: 4533994591267740952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 876
+        width: 272
+        height: 373
+      alignment: 9
+      pivot: {x: 0.5192319, y: 0.47896364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce405380774924ac0800000000000000
+      internalID: -3872369490625493780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 873
+        width: 287
+        height: 371
+      alignment: 9
+      pivot: {x: 0.55735475, y: 0.46795538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d1a840dc7cf3c20800000000000000
+      internalID: 3188486744559983969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 869
+        width: 293
+        height: 373
+      alignment: 9
+      pivot: {x: 0.51248366, y: 0.49509656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a542909549a890130800000000000000
+      internalID: 3533507752402429018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 2513
+        y: 869
+        width: 287
+        height: 369
+      alignment: 9
+      pivot: {x: 0.48406705, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a6ede1a76987ca0800000000000000
+      internalID: -6018895450732598753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 466
+        width: 139
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca31eb1f4824cb20800000000000000
+      internalID: 3153689959301462733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 458
+        width: 224
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c1f93be758ad520800000000000000
+      internalID: 2727639303552179310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 467
+        width: 193
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0799b27317d4b0760800000000000000
+      internalID: 7425113559302642032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 466
+        width: 221
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6dd4699e11cdaa0800000000000000
+      internalID: -6135008897438722351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 467
+        width: 195
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705ddd3c3b3034430800000000000000
+      internalID: 3765857784031991047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 462
+        width: 162
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c70969c2446d3b90800000000000000
+      internalID: -7260536786241648695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 458
+        width: 255
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae60d4ff834d3cf0800000000000000
+      internalID: -270986117005676882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 459
+        width: 320
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc20cf3bd96edd8d0800000000000000
+      internalID: -2819844226660171059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 458
+        width: 271
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418205d4d659d1630800000000000000
+      internalID: 3899437149053790228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 467
+        width: 172
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa94ac72f4aa16f0800000000000000
+      internalID: -713076229604599125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_146
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 62
+        width: 160
+        height: 384
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab35db0265508270800000000000000
+      internalID: 8250688396936428448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_147
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 65
+        width: 182
+        height: 378
+      alignment: 9
+      pivot: {x: 0.42900118, y: 0.5000004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07674f77113114540800000000000000
+      internalID: 4990290827851101808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_148
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 63
+        width: 175
+        height: 379
+      alignment: 9
+      pivot: {x: 0.35903528, y: 0.50000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061ed0bdabfb0a2d0800000000000000
+      internalID: -3269402520211037856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_149
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 61
+        width: 164
+        height: 386
+      alignment: 9
+      pivot: {x: 0.3710688, y: 0.5030437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf12eb6fe8411490800000000000000
+      internalID: -7777354888347770955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_150
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 61
+        width: 178
+        height: 381
+      alignment: 9
+      pivot: {x: 0.4736023, y: 0.5000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331d086f65f7394a0800000000000000
+      internalID: -6587781818433351373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_151
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 63
+        width: 180
+        height: 379
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0c22ee200abe870800000000000000
+      internalID: 8713233838523990193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_152
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 67
+        width: 170
+        height: 380
+      alignment: 9
+      pivot: {x: 0.4309003, y: 0.5000005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15168ffadb2bf3e10800000000000000
+      internalID: 2179657272441463121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_153
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 63
+        width: 153
+        height: 380
+      alignment: 9
+      pivot: {x: 0.4385779, y: 0.50309163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21deeb25c03b151d0800000000000000
+      internalID: -3363710581159826158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_154
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 65
+        width: 146
+        height: 377
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3765291d11186c530800000000000000
+      internalID: 3874926442929346163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_157
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 427
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7581ec8c6c6f35a0800000000000000
+      internalID: -6539388920442813061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MartySpriteSheet_158
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 62
+        width: 154
+        height: 369
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50636715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f21c7d035b62f220800000000000000
+      internalID: 2518193146106221299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
